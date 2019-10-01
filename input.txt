@@ -1,0 +1,3 @@
+Batman,money,DC,Bruce Wayne
+Superman,Livitation,DC,Clark Kent
+Spiderman,Wall-crawling,Marvel,Peter Parker
